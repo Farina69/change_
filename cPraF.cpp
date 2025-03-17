@@ -7,7 +7,8 @@ int main() {
     float cPraf = c*1,8+32;
     printf("Digite a temperatura em %.2f: ",cPraf);
 	getchar();    
-    float cPraK = c+273.15;
+	float cPraK = c+273.15;
     printf("Digite a temperatura em %.2f: ",cPraK);
 	getchar();
+    
 }
